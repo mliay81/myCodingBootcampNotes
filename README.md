@@ -39,5 +39,10 @@ Deletes a directory. Permanently.
 Adds everything in your directory to Git's "watch list." It's watching all the files in that folder.
 
 ### git commit -m
+Commits the updated file, makes it ready to push.
+
+### git push
+Pushes it to prod.
+
 
 
