@@ -35,3 +35,9 @@ Deletes a file. Permanently.
 ### rmdir < directory 
 Deletes a directory. Permanently.
 
+### git add .
+Adds everything in your directory to Git's "watch list." It's watching all the files in that folder.
+
+### git commit -m
+
+
