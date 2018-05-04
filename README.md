@@ -61,3 +61,7 @@ git pull    - downloads the freshest version
 2. git commit -m "message about what committing"
 3. git push
 4. git status
+
+### If in Windows and you see this: 
+*WarningL CRLF will be converted to LF*
+Carriage Return Line Feed to just Line Feed
