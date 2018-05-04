@@ -69,7 +69,7 @@ Carriage Return Line Feed to just Line Feed
 Pull test!
 
 
-###Cool Shortcuts
+### Cool Shortcuts
 Up key goes to the last command in your command line.
 
 Tab key while typing a file or folder name fills out the file name if it's there. It it's there and unique.
