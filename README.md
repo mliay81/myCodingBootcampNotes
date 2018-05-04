@@ -75,3 +75,8 @@ Up key goes to the last command in your command line.
 Tab key while typing a file or folder name fills out the file name if it's there. It it's there and unique.
 
 Special directories - ~/ is your User directory; ../ is the previous, or one-up, directory. The parent directory; ./ is the current directory; just a slash is your root directory.
+
+mv < targe file > < destination file >
+Moves a file to a target destination.
+
+You can copy a file from target to destination as well.
