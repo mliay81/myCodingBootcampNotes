@@ -1,0 +1,13 @@
+p {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    background: url(http://hilltromper.com/sites/default/files/styles/img_624_x/public/field/image/Tasajara-bath_0.jpg?itok=PRXqIh06) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
